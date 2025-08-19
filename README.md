@@ -1,6 +1,7 @@
 # second-mafft — hardened MAFFT re-run + crop/ungap (Python CLI)
 
-> **Scope:** This repository contains **my Python implementation** of the “second MAFFT” step. It builds upon a collaborator's C code. In Key properties I have listed the capabilities I added to the code. 
+> **Scope:** This repository contains **my Python implementation** of the “second MAFFT” step. It builds upon a collaborator's C code. In Key properties and 
+What’s materially different vs. earlier C implementation (for transparency) I have listed the capabilities I added to the code. 
 
 ---
 
